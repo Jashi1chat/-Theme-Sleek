@@ -4,8 +4,11 @@ V2b-Theme-Sleek
 请注意同源策略
 
 TG反馈群: https://t.me/+IUSXjq0U8kU3NDk8
+
 安装教程
+
 后端：修改v2b后端支付回调文件
+
 前后端分离重要步骤
 
 进入目录 app/Services/PaymentService.php
